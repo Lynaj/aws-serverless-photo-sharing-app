@@ -10,6 +10,11 @@
             "StackName": "amplify-photo-albums-master-135036",
             "StackId": "arn:aws:cloudformation:eu-central-1:802822705345:stack/amplify-photo-albums-master-135036/8ba77240-8d23-11ea-b965-063da53eea2a",
             "AmplifyAppId": "dtccl1vrelol2"
+        },
+        "categories": {
+            "auth": {
+                "photoalbums47694823": {}
+            }
         }
     }
 }
